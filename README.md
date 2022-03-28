@@ -6,4 +6,4 @@
 ## Contents
 
 ### 전체 코드
-* [Code](https://github.com/junlight94/TableViewPhoneBook/blob/main/collectionView/ViewController.swift)
+* [Code](https://github.com/junlight94/TableViewPhoneBook/blob/main/TableViewPhoneBook/ViewController.swift)
